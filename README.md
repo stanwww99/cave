@@ -1,4 +1,4 @@
-## How to run IOI Problems
+## How to run this problem
 Download from Online Judge
 
 Include only these files in your build:
