@@ -1,5 +1,14 @@
 ## How to run IOI Problems
-Use 
+Download from Online Judge
+
+Include only these files in your build:
+grader.cpp
+cave.cpp
+cave.h
+
+Place your test input sample.in to cave.in by copying in the correct directory.
+
+Running CMake will compile the judge and your solution together.
 
 ## Solution Summary 
 
